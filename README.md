@@ -8,7 +8,7 @@ You can apply jquery.timer to any HTML tag. For example <br/>
 &lt;span id="count-timer"&gt;&lt;/span&gt; <br/>
 
 Call the timer function<br/>
-`$("#count-timer").countDown(new Date('Apr 13 2905, 14:59:59'));`
+```$("#count-timer").countDown(new Date('Apr 13 2905, 14:59:59'));```
 
 ##License
 MIT License
